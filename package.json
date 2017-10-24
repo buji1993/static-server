@@ -1,0 +1,26 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "description": "javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buji1993/static-server.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "buji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buji1993/static-server/issues"
+  },
+  "homepage": "https://github.com/buji1993/static-server#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
